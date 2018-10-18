@@ -8,3 +8,9 @@ git add CommitTest.txt
 git commit -m 'added CommitTest.txt to the repo'
 
 git config --global user.email "your email"
+
+git clean wyrzuca pliki ktorych nie chce
+
+git checkout -b 'nazwa brancha'
+
+git checkout zmiana brancha
